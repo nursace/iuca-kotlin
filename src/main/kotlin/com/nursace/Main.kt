@@ -1,4 +1,4 @@
-package kg.iuca
+package com.nursace
 
 fun printNum(n: Int) {
     println(n)

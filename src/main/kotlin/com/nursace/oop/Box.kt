@@ -1,4 +1,4 @@
-package kg.iuca.oop
+package com.nursace.oop
 
 class Box {
     var n: Int = 0
