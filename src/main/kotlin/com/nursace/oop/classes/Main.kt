@@ -1,4 +1,4 @@
-package com.nursace.oop
+package com.nursace.oop.classes
 
 fun main() {
     var x = 1

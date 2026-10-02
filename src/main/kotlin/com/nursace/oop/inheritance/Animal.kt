@@ -16,7 +16,7 @@ class Mole(name: String, val wingsLength: Double) : Animal(name)
 
 fun main() {
 
-    val rex: Dog = Animal("Rex") as Dog
+    val rex: Dog = Animal("Rex") as Dog // throws ClassCastException
     rex.speak()
 
 
